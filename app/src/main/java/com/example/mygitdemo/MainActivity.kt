@@ -18,5 +18,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         println("hello aditya")
+
+        println("Hello Amit")
     }
 }
