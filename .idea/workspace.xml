@@ -16,7 +16,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6de72d5d-e322-4f50-a83c-2d5e33d7a17d" name="Changes" comment="" />
+    <list default="true" id="6de72d5d-e322-4f50-a83c-2d5e33d7a17d" name="Changes" comment="unversion" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +94,7 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
@@ -178,5 +178,9 @@
       <updated>1724067936374</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="unversion" />
+    <option name="LAST_COMMIT_MESSAGE" value="unversion" />
   </component>
 </project>
